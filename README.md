@@ -27,7 +27,7 @@ A futuristic and touch-free solution to control your system’s **brightness** a
 
 ---
 
-## 🛠️ Installation
+# 🛠️ Installation
 
 #git clone https://github.com/AagnickK/NoTouch
 #cd NoTouch
