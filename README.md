@@ -29,8 +29,8 @@ A futuristic and touch-free solution to control your system’s **brightness** a
 
 ## 🛠️ Installation
 
-git clone https://github.com/AagnickK/NoTouch
-cd NoTouch
-pip install -r requirements.txt
-python notouch.py
+#git clone https://github.com/AagnickK/NoTouch
+#cd NoTouch
+#pip install -r requirements.txt
+#python notouch.py
 
